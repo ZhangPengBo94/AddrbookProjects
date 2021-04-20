@@ -36,7 +36,6 @@
     </dependency>
     <!-- 配置 Spring Cloud Starter Open 依赖 [END] -->
 
-
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
